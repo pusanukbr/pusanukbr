@@ -1,46 +1,160 @@
-### Hi there, I'm Bohdan 👋
+<div id="header" align="center">
 
-- 🔭 I’m currently working on **a lot of different stuff**
-- 🌱 I’m currently learning **everything I can get my hands on**
-- 🤔 I’m looking for help with **finding more time in a single day**
-- 📫 How to reach me: **pusanukbr@gmail.com**
-- ⚡ Fun fact: **I love what I do - code.**
+<img src="./assets/github.gif" width="100"/>
 
-### My stack
+<h1>
+Hey there, I'm Bohdan!
+<img src="./assets/giphy.gif" width="30px" alt="GIF">
+</h1>
 
-<img align="left" alt="JavaScript" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+   </div>
+  
+### About Me :
 
-<img align="left" alt="React" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+Passionate Middle - Frontend Web Developer(JavaScript/React/Vue.js/Node.js/TypeScript)
 
-<img align="left" alt="Redux" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" />
+### Languages :
 
-<img align="left" alt="Vue" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
+<div style="display: flex; align-items: flex-start; align: center">
+<table  align="center">
+  <tr>
+    
+        🇺🇦 Ukrainian - Native
+        
+  </tr>
 
-<img align="left" alt="typescript" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
+  <tr>
+    
+        🇬🇧 English - working proficiency
+        
+  </tr>
 
-<img align="left" alt="Node.js" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+  <tr>
+    
+        🇵🇱 Polish - A2
+        
+  </tr>
+</table>
+</div>
 
-<img align="left" alt="MongoDB" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
+### My stack and tools :
 
-<img align="left" alt="HTML5" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<div style="display: flex; align-items: flex-start; align: center">
+<table align="center">
+  <tr>
+     <td align="center"  width="88">
+         <img src="./images/01-html5.svg" alt="HTML5" width="44" height="44"/>
+      <br>HTML5
+    </td>
+    <td align="center" width="88">
+        <img src="./images/02-css3.svg" alt="CSS3" width="44" height="44"/>
+      <br>CSS3
+    </td>
+<td align="center" width="88">
+         <img src="./images/03-javascript.svg" alt="JS" width="44" height="44"/>
+      <br>JavaScript
+    </td>
+    <td align="center" width="88">
+        <img src="./images/04-typescript.svg" alt="TS" width="44" height="44"/>
+      <br>TypeScript
+    </td>
+    <td align="center" width="88">
+        <img src="./images/06-react.svg" alt="React" width="44" height="44"/>
+      <br>React.js
+    </td>
+    <td align="center" width="88">
+        <img src="./images/07-nextjs.svg" alt="Next.js" width="44" height="44"/>
+      <br>Next.js
+    </td>
+    <td align="center" width="88">
+      <img src="./images/08-nodejs.svg" alt="Node.js" width="44" height="44"/>
+      <br>Node.js
+    </td>
+    <td align="center" width="88">
+       <img src="./images/09-vuejs.svg" alt="SQL" width="44" height="44"/>
+      <br>Vue.js
+    </td>
+    <td align="center" width="88">
+       <img src="./images/09-nuxtjs.svg" alt="SQL" width="44" height="44"/>
+      <br>Nuxt.js
+    </td>
+  </tr>
+    <td align="center" width="88">
+        <img src="./images/10-sass.svg" alt="Sass" width="44" height="44"/>
+      <br>Sass
+    </td>
+    <td align="center" width="88"> 
+        <img src="./images/11-bem.svg" alt="Bem" width="44" height="44"/>
+      <br>BEM
+    </td>
+    <td align="center"  width="88">
+        <img src="./images/12-tailwind.svg" alt="Tailwind" width="44" height="44"/>
+      <br>Tailwind
+    </td>
+    <td align="center" width="88">
+        <img src="./images/13-redux.svg" alt="Redux" width="44" height="44"/>
+      <br>Redux
+    </td>
+      <td align="center" width="88">
+        <img src="./images/14-postman.svg" alt="Postman" width="44" height="44"/>
+      <br>Postman
+    </td>
+      </td>
+      <td align="center" width="88">
+        <img src="./images/15-mongodb.svg" alt="MongoDB" width="44" height="44"/>
+      <br>MongoDB
+     </td>
+     <td align="center" width="88">
+        <img src="./images/16-git.svg" alt="Git" width="44" height="44"/>
+      <br>Git
+    </td>
+  <td align="center" width="88">
+        <img src="./images/17-vscode.svg" alt="Visual Studio Code" width="44" height="44"/>
+      <br>VSCode
+     </td>
+  <td align="center" width="88">
+        <img src="./images/18-figma.svg" alt="Figma" width="44" height="44"/>
+      <br>Figma
+     </td>
+</table>
+</div>
 
-<img align="left" alt="CSS3" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+### GitHub Stats :
 
-<img align="left" alt="Sass" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+<table align="center">
+  <tr>
+  <td>
+  <a href="https://github.com/pusanukbr/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=pusanukbr&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Viktor Svertoka github stats" /></a>
+  </td>
+  <td>
+  <a href="https://github.com/pusanukbr/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pusanukbr&layout=compact&theme=buefy&hide_border=true" /></a>
+  </td>
+  </tr>
+  <tr>
+  <td colspan=2 align="center">
+  <a href="https://git.io/streak-stats"> <img src="http://github-readme-streak-stats.herokuapp.com?user=pusanukbr&hide_border=true&background=f6f8fa&currStreakLabel=000000&date_format=j%20M%5B%20Y%5D" alt="Viktor Svertoka GitHub Readme Streak Stats" /> </a>
+  </td>
+  </tr>
+</table>
 
-<img align="left" alt="webpack" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png" />
+<div align=center> 
+<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=30&center=true&vCenter=true&width=1000&height=50&lines=Fun+Facts:+;Love+joking,+got+a+great+sense+of+humor.+;" alt="Fun Facts" /> 
+</div>
+  
+<br>
 
-<img align="left" alt="babel" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/babel/babel.png" />
+<div align="center">
+<a href="https://u8views.com/github/pusanukbr"><img src="https://u8views.com/api/v1/github/profiles/10384690/views/day-week-month-total-count.svg"></a>
+</div>
 
-<img align="left" alt="wordPress" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png" />
+<br>
 
-<img align="left" alt="Git" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<div align="center">
+<a href="https://www.codewars.com/users/pusanukbr"><img src="https://www.codewars.com/users/pusanukbr/badges/small">
+</div>
 
-<img align="left" alt="GitHub" width="32px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<br>
 
-<img alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-
-<img align="left" alt="StoryBook" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png" />
-
-<img align="left" alt="StoryBook" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/storybook/storybook.png" />
-
+<div align="center">
+<a href="https://www.buymeacoffee.com/pusanukbr" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 180px !important;" ></a>
+</div>
