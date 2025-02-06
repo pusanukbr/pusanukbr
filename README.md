@@ -75,7 +75,7 @@ Passionate Middle - Frontend Web Developer(JavaScript/React/Vue.js/Node.js/TypeS
       <br>Vue.js
     </td>
     <td align="center" width="88">
-       <img src="./images/09-nuxtjs.svg" alt="SQL" width="44" height="44"/>
+       <img src="./images/05-nuxtjs.svg" alt="SQL" width="44" height="44"/>
       <br>Nuxt.js
     </td>
   </tr>
